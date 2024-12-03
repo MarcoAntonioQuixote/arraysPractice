@@ -34,7 +34,7 @@ const superHeroes = [
       teamAffiliation: null,
       intelligence: 10,
       speed: 7,
-      durability: 5,
+      durability: 11,
       wearsCape: true
     },
     {
@@ -147,4 +147,4 @@ const superHeroes = [
 // if their speed is slow, add to their intelligence
   // ex: speed is 2, and 2 to intelligence
 
-// Find out who has the highest durability
+// Find out who has the highest durability, and then say that at the end
